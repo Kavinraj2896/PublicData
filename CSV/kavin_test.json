@@ -103,5 +103,15 @@
    "col1": "customer_staging_test",
    "col2": "customer_staging_test",
    "col3": "22"
+ },
+ {
+   "col1": "postgres_test",
+   "col2": "postgres_2_test",
+   "col3": "22"
+ },
+ {
+   "col1": "postgres_db_test",
+   "col2": "postgres_2_db_test",
+   "col3": "22"
  }
 ]
