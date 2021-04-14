@@ -113,5 +113,15 @@
    "col1": "postgres_db_test",
    "col2": "postgres_2_db_test",
    "col3": "22"
+ },
+ {
+   "col1": "kavin_madhan_test",
+   "col2": "kavin_madhan_test2",
+   "col3": "22"
+ },
+ {
+   "col1": "kumar_madhan_test",
+   "col2": "kumar_madhan_test2",
+   "col3": "22"
  }
 ]
