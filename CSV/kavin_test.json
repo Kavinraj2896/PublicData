@@ -93,5 +93,15 @@
    "col1": "refresh1_json",
    "col2": "refresh2_json",
    "col3": "22"
+ },
+ {
+   "col1": "k8_json",
+   "col2": "k8_2_json",
+   "col3": "22"
+ },
+ {
+   "col1": "customer_staging_test",
+   "col2": "customer_staging_test",
+   "col3": "22"
  }
 ]
