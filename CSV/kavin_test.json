@@ -188,5 +188,15 @@
    "col1": "SQL_test_new_test",
    "col2": "SQL_test_new_test_2",
    "col3": "22"
+ },
+ {
+   "col1": "Postgres_test",
+   "col2": "Postgres_test_2",
+   "col3": "22"
+ },
+ {
+   "col1": "Postgres_test_new_test",
+   "col2": "Postgres_test_new_test_2",
+   "col3": "22"
  }
 ]
