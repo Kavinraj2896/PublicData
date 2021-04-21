@@ -207,7 +207,6 @@
  {
    "col1": "Postgres_alter_test_new_test",
    "col2": "Postgres_alter_test_new_test_2",
-   "col3": "22",
-  "col4": "refresh_before_test"
+   "col3": "22"
  }
 ]
