@@ -17,7 +17,7 @@
     "Z-Accelaration": 50.97039984385354,
     "Y-Accelaration": 4.881988632747216,
     "SNR": 6.494197892751145,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 55.34115646331074,
@@ -37,7 +37,7 @@
     "Z-Accelaration": 49.51608508707666,
     "Y-Accelaration": 29.26263971628351,
     "SNR": 2.374653520062041,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 67.02784618828218,
@@ -57,7 +57,7 @@
     "Z-Accelaration": 51.19214296972054,
     "Y-Accelaration": 3.9903718365851137,
     "SNR": 10.57254465069956,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 76.18261504566573,
@@ -77,7 +77,7 @@
     "Z-Accelaration": 8.664800846144058,
     "Y-Accelaration": 39.350103378616055,
     "SNR": 3.2786969819616822,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 66.58439032641957,
@@ -97,7 +97,7 @@
     "Z-Accelaration": 40.817130800660784,
     "Y-Accelaration": 6.063948941814266,
     "SNR": 6.910488684883263,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 63.0422123339101,
@@ -117,7 +117,7 @@
     "Z-Accelaration": 57.86106450292219,
     "Y-Accelaration": 6.7000820989499665,
     "SNR": 5.930021667042626,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 67.86737872103147,
@@ -137,7 +137,7 @@
     "Z-Accelaration": 26.340868686873797,
     "Y-Accelaration": 34.09955001591615,
     "SNR": 1.1542645224333616,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 61.90034601995464,
@@ -157,7 +157,7 @@
     "Z-Accelaration": 54.18373753024228,
     "Y-Accelaration": 23.78003865928268,
     "SNR": 13.33635837305227,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 71.15805742820837,
@@ -177,7 +177,7 @@
     "Z-Accelaration": 27.90625276499719,
     "Y-Accelaration": 21.83863260619009,
     "SNR": 12.996908775491567,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 43.308009192565905,
@@ -197,7 +197,7 @@
     "Z-Accelaration": 35.42242785076194,
     "Y-Accelaration": 39.08964183295711,
     "SNR": 3.728048544012606,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 1.0861981947075705,
@@ -217,7 +217,7 @@
     "Z-Accelaration": 22.43048327179755,
     "Y-Accelaration": 19.69291993962151,
     "SNR": 13.374331247282278,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 58.89037841458148,
@@ -237,7 +237,7 @@
     "Z-Accelaration": 59.01313206461841,
     "Y-Accelaration": 39.04749910511178,
     "SNR": 12.548122686205732,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 44.53215304115176,
@@ -257,7 +257,7 @@
     "Z-Accelaration": 56.03974927299868,
     "Y-Accelaration": 32.70107524686744,
     "SNR": 2.9547654701793573,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 41.00973015273708,
@@ -277,7 +277,7 @@
     "Z-Accelaration": 53.352730620911174,
     "Y-Accelaration": 20.311514557486554,
     "SNR": 7.326793552449714,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 34.22130845881707,
@@ -297,7 +297,7 @@
     "Z-Accelaration": 49.730597426187735,
     "Y-Accelaration": 39.954839196139254,
     "SNR": 0.6028597699543021,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 4.957528911254538,
@@ -317,7 +317,7 @@
     "Z-Accelaration": 13.722663525342265,
     "Y-Accelaration": 25.032479033268906,
     "SNR": 13.081953707152856,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 64.10486128072763,
@@ -337,7 +337,7 @@
     "Z-Accelaration": 51.91841977968209,
     "Y-Accelaration": 38.495427301743575,
     "SNR": 6.5440546855025366,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 33.888016955126275,
@@ -357,7 +357,7 @@
     "Z-Accelaration": 51.104767494071346,
     "Y-Accelaration": 23.447600016297923,
     "SNR": 0.5203928399151639,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 54.66411139132296,
@@ -377,7 +377,7 @@
     "Z-Accelaration": 5.649715027248501,
     "Y-Accelaration": 7.523952985468494,
     "SNR": 11.34812227500034,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 15.860006462531402,
@@ -397,7 +397,7 @@
     "Z-Accelaration": 31.719153195551087,
     "Y-Accelaration": 20.490858887311305,
     "SNR": 7.7804725560770045,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": 41.895990533767446,
@@ -417,7 +417,7 @@
     "Z-Accelaration": 5.050235620263224,
     "Y-Accelaration": 23.713969684473206,
     "SNR": 9.118680424077986,
-    "temperature_1": ""
+    "temperature": ""
   },
   {
     "X-Velocity": "",
@@ -437,7 +437,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 284.1526855835857
+    "temperature": 284.1526855835857
   },
   {
     "X-Velocity": "",
@@ -457,7 +457,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 4.467444150382301
+    "temperature": 4.467444150382301
   },
   {
     "X-Velocity": "",
@@ -477,7 +477,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 342.3258396526846
+    "temperature": 342.3258396526846
   },
   {
     "X-Velocity": "",
@@ -497,7 +497,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 99.73757124235244
+    "temperature": 99.73757124235244
   },
   {
     "X-Velocity": "",
@@ -517,7 +517,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 264.67155676526346
+    "temperature": 264.67155676526346
   },
   {
     "X-Velocity": "",
@@ -537,7 +537,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 380.8884011876753
+    "temperature": 380.8884011876753
   },
   {
     "X-Velocity": "",
@@ -557,7 +557,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 245.30911329382823
+    "temperature": 245.30911329382823
   },
   {
     "X-Velocity": "",
@@ -577,7 +577,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 388.8001301423201
+    "temperature": 388.8001301423201
   },
   {
     "X-Velocity": "",
@@ -597,7 +597,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 387.6591713577236
+    "temperature": 387.6591713577236
   },
   {
     "X-Velocity": "",
@@ -617,7 +617,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 353.58635787309595
+    "temperature": 353.58635787309595
   },
   {
     "X-Velocity": "",
@@ -637,7 +637,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 279.01640631788325
+    "temperature": 279.01640631788325
   },
   {
     "X-Velocity": "",
@@ -657,7 +657,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 376.69023549874044
+    "temperature": 376.69023549874044
   },
   {
     "X-Velocity": "",
@@ -677,7 +677,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 276.41843294554536
+    "temperature": 276.41843294554536
   },
   {
     "X-Velocity": "",
@@ -697,7 +697,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 198.19406843819678
+    "temperature": 198.19406843819678
   },
   {
     "X-Velocity": "",
@@ -717,7 +717,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 271.6127903350634
+    "temperature": 271.6127903350634
   },
   {
     "X-Velocity": "",
@@ -737,7 +737,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 382.46378652201014
+    "temperature": 382.46378652201014
   },
   {
     "X-Velocity": "",
@@ -757,7 +757,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 88.06242279223152
+    "temperature": 88.06242279223152
   },
   {
     "X-Velocity": "",
@@ -777,7 +777,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 181.58945748235493
+    "temperature": 181.58945748235493
   },
   {
     "X-Velocity": "",
@@ -797,7 +797,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 213.70725312581274
+    "temperature": 213.70725312581274
   },
   {
     "X-Velocity": "",
@@ -817,7 +817,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 375.8847868923299
+    "temperature": 375.8847868923299
   },
   {
     "X-Velocity": "",
@@ -837,7 +837,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 189.33957528890866
+    "temperature": 189.33957528890866
   },
   {
     "X-Velocity": "",
@@ -857,7 +857,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 114.85623411124166
+    "temperature": 114.85623411124166
   },
   {
     "X-Velocity": "",
@@ -877,7 +877,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 348.46713035979184
+    "temperature": 348.46713035979184
   },
   {
     "X-Velocity": "",
@@ -897,7 +897,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 69.18771130399296
+    "temperature": 69.18771130399296
   },
   {
     "X-Velocity": "",
@@ -917,7 +917,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 204.13687915834865
+    "temperature": 204.13687915834865
   },
   {
     "X-Velocity": "",
@@ -937,7 +937,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 132.8627586994647
+    "temperature": 132.8627586994647
   },
   {
     "X-Velocity": "",
@@ -957,7 +957,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 158.35868589225387
+    "temperature": 158.35868589225387
   },
   {
     "X-Velocity": "",
@@ -977,7 +977,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 405.5337658865768
+    "temperature": 405.5337658865768
   },
   {
     "X-Velocity": "",
@@ -997,7 +997,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 147.00706231253633
+    "temperature": 147.00706231253633
   },
   {
     "X-Velocity": "",
@@ -1017,7 +1017,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 9.237764429144335
+    "temperature": 9.237764429144335
   },
   {
     "X-Velocity": "",
@@ -1037,7 +1037,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 38.809679352100204
+    "temperature": 38.809679352100204
   },
   {
     "X-Velocity": "",
@@ -1057,7 +1057,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 25.954958983417548
+    "temperature": 25.954958983417548
   },
   {
     "X-Velocity": "",
@@ -1077,7 +1077,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 155.64870454379175
+    "temperature": 155.64870454379175
   },
   {
     "X-Velocity": "",
@@ -1097,7 +1097,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 416.07998557043834
+    "temperature": 416.07998557043834
   },
   {
     "X-Velocity": "",
@@ -1117,7 +1117,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 349.14431968625956
+    "temperature": 349.14431968625956
   },
   {
     "X-Velocity": "",
@@ -1137,7 +1137,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 398.99634063557613
+    "temperature": 398.99634063557613
   },
   {
     "X-Velocity": "",
@@ -1157,7 +1157,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 186.7992080650651
+    "temperature": 186.7992080650651
   },
   {
     "X-Velocity": "",
@@ -1177,7 +1177,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 331.16382133933996
+    "temperature": 331.16382133933996
   },
   {
     "X-Velocity": "",
@@ -1197,7 +1197,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 281.3468111164329
+    "temperature": 281.3468111164329
   },
   {
     "X-Velocity": "",
@@ -1217,7 +1217,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 183.36733489833995
+    "temperature": 183.36733489833995
   },
   {
     "X-Velocity": "",
@@ -1237,7 +1237,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 188.4883417559522
+    "temperature": 188.4883417559522
   },
   {
     "X-Velocity": "",
@@ -1257,7 +1257,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 205.73245956838056
+    "temperature": 205.73245956838056
   },
   {
     "X-Velocity": "",
@@ -1277,7 +1277,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 33.26968816222699
+    "temperature": 33.26968816222699
   },
   {
     "X-Velocity": "",
@@ -1297,7 +1297,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 40.480466644571194
+    "temperature": 40.480466644571194
   },
   {
     "X-Velocity": "",
@@ -1317,7 +1317,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 15.232920886364148
+    "temperature": 15.232920886364148
   },
   {
     "X-Velocity": "",
@@ -1337,7 +1337,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 27.093669587054936
+    "temperature": 27.093669587054936
   },
   {
     "X-Velocity": "",
@@ -1357,7 +1357,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 27.865678634565114
+    "temperature": 27.865678634565114
   },
   {
     "X-Velocity": "",
@@ -1377,7 +1377,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 38.512391340305896
+    "temperature": 38.512391340305896
   },
   {
     "X-Velocity": "",
@@ -1397,7 +1397,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 21.36592136260628
+    "temperature": 21.36592136260628
   },
   {
     "X-Velocity": "",
@@ -1417,7 +1417,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 22.926097696899358
+    "temperature": 22.926097696899358
   },
   {
     "X-Velocity": "",
@@ -1437,7 +1437,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 4.257344007226653
+    "temperature": 4.257344007226653
   },
   {
     "X-Velocity": "",
@@ -1457,7 +1457,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 10.507849097904778
+    "temperature": 10.507849097904778
   },
   {
     "X-Velocity": "",
@@ -1477,7 +1477,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 28.722153747441407
+    "temperature": 28.722153747441407
   },
   {
     "X-Velocity": "",
@@ -1497,7 +1497,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 44.22569410086097
+    "temperature": 44.22569410086097
   },
   {
     "X-Velocity": "",
@@ -1517,7 +1517,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 23.78508226214082
+    "temperature": 23.78508226214082
   },
   {
     "X-Velocity": "",
@@ -1537,7 +1537,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 36.64916345609231
+    "temperature": 36.64916345609231
   },
   {
     "X-Velocity": "",
@@ -1557,7 +1557,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 6.4712710745185165
+    "temperature": 6.4712710745185165
   },
   {
     "X-Velocity": "",
@@ -1577,7 +1577,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 17.109392249125335
+    "temperature": 17.109392249125335
   },
   {
     "X-Velocity": "",
@@ -1597,7 +1597,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 35.55503092948463
+    "temperature": 35.55503092948463
   },
   {
     "X-Velocity": "",
@@ -1617,7 +1617,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 0.962739523082035
+    "temperature": 0.962739523082035
   },
   {
     "X-Velocity": "",
@@ -1637,7 +1637,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 13.303112676753855
+    "temperature": 13.303112676753855
   },
   {
     "X-Velocity": "",
@@ -1657,7 +1657,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 17.305490540859946
+    "temperature": 17.305490540859946
   },
   {
     "X-Velocity": "",
@@ -1677,7 +1677,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 30.205847350483474
+    "temperature": 30.205847350483474
   },
   {
     "X-Velocity": "",
@@ -1697,7 +1697,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 27.363922389452522
+    "temperature": 27.363922389452522
   },
   {
     "X-Velocity": "",
@@ -1717,7 +1717,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 41.659900285603825
+    "temperature": 41.659900285603825
   },
   {
     "X-Velocity": "",
@@ -1737,7 +1737,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 2.7588593348451464
+    "temperature": 2.7588593348451464
   },
   {
     "X-Velocity": "",
@@ -1757,7 +1757,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 2.0936861798980293
+    "temperature": 2.0936861798980293
   },
   {
     "X-Velocity": "",
@@ -1777,7 +1777,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 20.737591699880706
+    "temperature": 20.737591699880706
   },
   {
     "X-Velocity": "",
@@ -1797,7 +1797,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 32.19230916553252
+    "temperature": 32.19230916553252
   },
   {
     "X-Velocity": "",
@@ -1817,7 +1817,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 5.178857342631545
+    "temperature": 5.178857342631545
   },
   {
     "X-Velocity": "",
@@ -1837,7 +1837,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 33.172141318510604
+    "temperature": 33.172141318510604
   },
   {
     "X-Velocity": "",
@@ -1857,7 +1857,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 20.207280882123577
+    "temperature": 20.207280882123577
   },
   {
     "X-Velocity": "",
@@ -1877,7 +1877,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 24.222399172297777
+    "temperature": 24.222399172297777
   },
   {
     "X-Velocity": "",
@@ -1897,7 +1897,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 6.716089471877551
+    "temperature": 6.716089471877551
   },
   {
     "X-Velocity": "",
@@ -1917,7 +1917,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 17.020149564461335
+    "temperature": 17.020149564461335
   },
   {
     "X-Velocity": "",
@@ -1937,7 +1937,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 19.82587660551683
+    "temperature": 19.82587660551683
   },
   {
     "X-Velocity": "",
@@ -1957,7 +1957,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 2.331875662814282
+    "temperature": 2.331875662814282
   },
   {
     "X-Velocity": "",
@@ -1977,7 +1977,7 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 41.86752884645602
+    "temperature": 41.86752884645602
   },
   {
     "X-Velocity": "",
@@ -1997,6 +1997,6 @@
     "Z-Accelaration": "",
     "Y-Accelaration": "",
     "SNR": "",
-    "temperature_1": 29.20998629787075
+    "temperature": 29.20998629787075
   }
 ]
